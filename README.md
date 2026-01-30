@@ -120,4 +120,4 @@ The model demonstrates reliable performance across the four classes. Data augmen
 ## Contact
 
 Email: shreyasbedi9@gmail.com  
-LinkedIn: https://www.linkedin.com/in/shreyasbedi9/
+LinkedIn: https://www.linkedin.com/in/shreyasbedi
